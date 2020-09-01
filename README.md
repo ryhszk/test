@@ -2,4 +2,4 @@
 
 For various tests.
 
-(e.g. Cooperation with slack, etc.
+(e.g. Cooperation with slack notification, etc.
